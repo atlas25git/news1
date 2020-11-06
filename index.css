@@ -1,0 +1,33 @@
+.body{
+    font-family: "MaisonNeue","Helvetica Neue",Helvetica,sans-serif;
+    font-weight: 700;
+    font-stretch: expanded;
+}
+.logo{
+    
+    height: 80px;
+    width: auto;
+    position: absolute;
+    left: 44%;
+    top: 56%; 
+    padding-bottom: 0;
+     margin-top: ; 
+    transform: translate(0%, -80%);
+    
+}
+
+.navbar-brand {
+    height: 100px;
+    width: auto;
+}
+.nav-link{
+    
+    font-weight: 1000;
+}
+.b4391{
+    font-size: 32px;
+    font-weight: 900;
+}
+#front1{
+    background-color: rgba(38, 129, 204, 0.1);;
+}
